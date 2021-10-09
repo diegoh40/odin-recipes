@@ -1,0 +1,15 @@
+
+* {
+    color: white;
+    background-color: rgb(136, 136, 136);
+  }
+  
+  p {
+    color: red;
+  }
+
+
+img {
+    height: auto;
+    width: 250px;
+  }
