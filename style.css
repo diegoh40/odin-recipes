@@ -3,9 +3,65 @@
     color: white;
     background-color: rgb(136, 136, 136);
   }
-  
+
+
+  div {  
+    color: white; 
+    background-color: red; 
+    font size: 32xp;
+    font weight : bold;
+    text-align: center; 
+  }
+.E1 {
+    color: black; 
+    
+    background-color:lightpink; 
+    font size: 24xp;
+    font weight : bold;
+    text-align: center; 
+    font-family: Verdana, sans-serif;
+
+  }
+
+  .E2 {
+    color:blue; 
+    
+ 
+    font size: 36xp;
+    font weight : bold;
+    text-align: center; 
+
+  }
+
+  .E3 {
+    color: black; 
+    
+    background-color:lightpink; 
+    font size: 24xp;
+    font weight : bold;
+    text-align: center; 
+
+  }
+
+  .E4{
+    color: black; 
+    
+    background-color: lightgreen; 
+    font size: 24xp;
+    font weight : bold;
+    text-align: center; 
+
+  }
+
+  .E5 {
+    color: black; 
+    
+    background-color:lightpink; 
+    font size: 24xp;
+    font weight : bold;
+    text-align: center; 
   p {
-    color: red;
+    color:white;
   }
 
 
