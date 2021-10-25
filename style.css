@@ -5,13 +5,8 @@
   }
 
 
-  div {  
-    color: white; 
-    background-color: red; 
-    font size: 32xp;
-    font weight : bold;
-    text-align: center; 
-  }
+ 
+  
 .E1 {
     color: black; 
     
@@ -25,8 +20,6 @@
 
   .E2 {
     color:blue; 
-    
- 
     font size: 36xp;
     font weight : bold;
     text-align: center; 
@@ -60,6 +53,8 @@
     font size: 24xp;
     font weight : bold;
     text-align: center; 
+  }
+
   p {
     color:white;
   }
@@ -69,3 +64,81 @@ img {
     height: auto;
     width: 250px;
   }
+
+
+  .inverted,
+  .fancy {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+  }
+  
+  .inverted {
+    background-color: black;
+    color: white;
+  }
+  
+  .fancy {
+    background-color: yellow;
+  }
+
+  .avatar.proportioned {
+
+    height:Auto ;
+    width: 300px;
+
+  }
+
+  
+  .avatar.distorted {
+
+    height:400px;
+    width: 200px;
+
+  }
+
+  .container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+  }
+
+
+  .para,
+.small-para {
+  color: hsl(0, 100%, 50%);
+}
+
+.para {
+  font-size: 22px;
+}
+
+.button {
+  background-color: #ffc0cb;
+  color: black;
+  font-size: 20px;
+}
+
+div.text {
+  color: green;
+  font-size: 28px;
+}
+
+
+.small-para {
+  font-size: 12px;
+}
+
+
+#confirm-button {
+  background: green;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+div .child {
+  color: red;
+  font-size: 14px;
+}
